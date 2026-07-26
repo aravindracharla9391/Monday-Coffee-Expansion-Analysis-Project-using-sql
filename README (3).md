@@ -2,7 +2,8 @@
 
 An end-to-end SQL analysis project to identify the best cities in India for a coffee company to open new stores, based on consumer demand, sales performance, and cost efficiency.
 
-![Monday Coffee Logo](monday-coffee-logo.png)
+![Uploading image.png…]()
+
 
 ---
 
