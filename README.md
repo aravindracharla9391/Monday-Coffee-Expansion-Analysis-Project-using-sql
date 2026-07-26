@@ -69,3 +69,12 @@ Based on the analysis, the top 3 cities recommended for new store openings are:
 👤 Author
 Aravind Racharla
 GitHub | LinkedIn: in/aravind-racharla
+# ☕ Monday Coffee Expansion Analysis Project (SQL)
+
+An end-to-end SQL analysis project to identify the best cities in India for a coffee company to open new stores, based on consumer demand, sales performance, and cost efficiency.
+
+![Monday Coffee Logo](1.png)
+
+---
+
+## 📁 Project Structure
